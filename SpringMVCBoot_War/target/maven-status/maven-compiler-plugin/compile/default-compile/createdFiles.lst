@@ -1,0 +1,4 @@
+edu\aspire\config\AspireWebRootConfig.class
+edu\aspire\test\Application.class
+edu\aspire\domains\Customer.class
+edu\aspire\controllers\NewCustomerController.class
